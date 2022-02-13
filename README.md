@@ -22,6 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant-lamsal&show_icons=true&locale=en" alt="sushant-lamsal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushant-lamsal&" alt="sushant-lamsal" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![Sushant's  github activity graph](https://activity-graph.herokuapp.com/graph?username=Sushant-Lamsal&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
