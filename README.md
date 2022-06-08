@@ -1,1 +1,1 @@
-![Banner](https://raw.githubusercontent.com/Shshant-Lamsal/Sushant-lamsal/main/images/banner.png)
+![Banner](https://raw.githubusercontent.com/Shshant-Lamsal/Sushant-lamsal/images/banner.png)
