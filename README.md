@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/Sushant-Lamsal/Sushant-Lamsal/main/images/juju.gif)
+![banner](https://raw.githubusercontent.com/Sushant-Lamsal/Sushant-Lamsal/main/images/lel.jpg)
 
 <h1 align="center">Hi 👋, I'm Sushant Lamsal</h1>
 
