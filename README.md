@@ -33,7 +33,7 @@
 </p>
 
 <br>
-<img src=""></img>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sushant-Lamsal&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
