@@ -4,8 +4,6 @@
 
 <div align="center">
  I’m currently learning FULL STACK WEB DEVELOPMENT
-
- I’m looking to collaborate on **Open Source Projects**
 </div>
 
 <h3 align="center">Connect with me:</h3>
