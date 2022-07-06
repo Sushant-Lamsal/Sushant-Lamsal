@@ -3,9 +3,8 @@
 
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=2500&color=F70000&background=FFFFFF00&center=true&vCenter=true&width=406&lines=Hi+I'm+Sushant+Lamsal" alt="sushant-lamsal" />
 </p>
- <img align="center" src="https://readme-typing-svg.herokuapp.com?font=&size=16&duration=2500&color=0FDFF7&background=FFFFFF00&center=true&vCenter=true&width=367&height=81&lines=I'm+currently+learning+full+stack+web+development" alt="sushant-lamsal" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=&size=16&duration=2500&color=0FDFF7&background=FFFFFF00&center=true&vCenter=true&width=367&height=81&lines=I'm+currently+learning+full+stack+web+development" alt="sushant-lamsal" />
 </div>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/sushantlamsal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sushantlamsal_" height="30" width="40" /></a>
