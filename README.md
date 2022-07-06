@@ -1,7 +1,8 @@
 ![banner](https://raw.githubusercontent.com/Sushant-Lamsal/Sushant-Lamsal/main/images/lel.jpg)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&duration=2500&color=F70000&background=FFFFFF00&center=true&vCenter=true&width=406&lines=Hi+I'm+Sushant+Lamsal)](https://git.io/typing-svg)
-
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=2500&color=F70000&background=FFFFFF00&center=true&vCenter=true&width=406&lines=Hi+I'm+Sushant+Lamsal" alt="sushant-lamsal" />
+</p>
  I’m currently learning FULL STACK WEB DEVELOPMENT
 </div>
 
