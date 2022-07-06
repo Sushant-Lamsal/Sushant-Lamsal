@@ -35,7 +35,6 @@
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Sushant-Lamsal&theme=redical" alt="sushant-lamsal" />
 </div>
 
-[![Sushant's github activity graph](	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sushant-Lamsal&theme=tokyonight" alt="sushant-lamsal" />
