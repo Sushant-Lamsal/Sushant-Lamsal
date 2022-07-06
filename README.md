@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/Sushant-Lamsal/Sushant-Lamsal/main/images/lel.jpg)
+![banner](https://raw.githubusercontent.com/Sushant-Lamsal/Sushant-Lamsal/main/images/banner.png)
 <div align="center">
 
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=2500&color=F70000&background=FFFFFF00&center=true&vCenter=true&width=406&lines=Hi+I'm+Sushant+Lamsal" alt="sushant-lamsal" />
@@ -31,13 +31,15 @@
   </div>
 
 <br>
+<div align="center">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Sushant-Lamsal&theme=redical" alt="sushant-lamsal" />
+</div>
 
+[![Sushant's github activity graph](	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sushant-Lamsal&theme=redical	)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sushant-Lamsal&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Sushant-Lamsal&theme=tokyonight" alt="sushant-lamsal" />
+</div>
 
 
 
