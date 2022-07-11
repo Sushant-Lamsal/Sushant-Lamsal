@@ -3,7 +3,9 @@
 
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=2500&color=F70000&background=FFFFFF00&center=true&vCenter=true&width=406&lines=Hi+I'm+Sushant+Lamsal" alt="sushant-lamsal" />
 </p>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=&size=16&duration=2500&color=0FDFF7&background=FFFFFF00&center=true&vCenter=true&width=367&height=81&lines=I'm+currently+learning+full+stack+web+development" alt="sushant-lamsal" />
+
+I'm currently learning fullstack web Development
+
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
