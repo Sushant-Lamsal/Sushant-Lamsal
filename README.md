@@ -19,26 +19,23 @@
 
 ## <br>
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushant-lamsal&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="sushant-lamsal" <p/>
-  
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushant-lamsal&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="sushant-lamsal" <p/>  
 <br>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant-lamsal&theme=midnight-purple&show_icons=true&locale=en" alt="sushant-lamsal" /></p>
-
+## <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant-lamsal&theme=midnight-purple&show_icons=true&locale=en" alt="sushant-lamsal" /></p>
 <br>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Sushant-Lamsal&theme=cobalt&background=000000&border=000000&stroke=DD0000&ring=FF0000&fire=DD2727&currStreakNum=00D6DD&sideNums=DD12D6&currStreakLabel=00DD73&sideLabels=DDDB62)" alt="sushant-lamsal" />
-</p>
-  </div>
 
-<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Sushant-Lamsal&theme=cobalt&background=000000&border=000000&stroke=DD0000&ring=FF0000&fire=DD2727&currStreakNum=00D6DD&sideNums=DD12D6&currStreakLabel=00DD73&sideLabels=DDDB62)" alt="sushant-lamsal" />
+</div>
+
+## <br>
 <div align="center">
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Sushant-Lamsal&theme=redical" alt="sushant-lamsal" />
 </div>
 
 
-<div align="center">
+## <div align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sushant-Lamsal&theme=tokyonight" alt="sushant-lamsal" />
 </div>
 
