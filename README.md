@@ -36,7 +36,7 @@
 
 
 ## <div align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Sushant-Lamsal&theme=tokyonight" alt="sushant-lamsal" />
+## <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sushant-Lamsal&theme=tokyonight" alt="sushant-lamsal" />
 </div>
 
 
