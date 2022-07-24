@@ -4,7 +4,7 @@
 ## <img align="center" src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=2500&color=F70000&background=FFFFFF00&center=true&vCenter=true&width=406&lines=Hi+I'm+Sushant+Lamsal" alt="sushant-lamsal" />
 </p>
 
-### I'm currently learning Fullstack Web Development
+### I'm currently learning Fullstack Web Development.
 
 
 ## </div>
