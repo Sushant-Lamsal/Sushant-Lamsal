@@ -42,6 +42,8 @@
 ## <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sushant-Lamsal&theme=tokyonight" alt="sushant-lamsal" />
 </div>
 
+<a href="https://app.daily.dev/sushantlamsal"><img src="https://api.daily.dev/devcards/477bf03354a146ac9e9c0951cb9568ff.png?r=l51" width="400" alt="Sushant's Dev Card"/></a>
+
 
 
 
