@@ -21,8 +21,9 @@
 <a href="https://linkedin.com/in/sushant lamsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushant lamsal" height="30" width="40" /></a>
 
 <a href="https://instagram.com/___sushant_lamsal___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___sushant_lamsal___" height="30" width="40" /></a>
-</p>
 
+</p>
+<a href="https://app.daily.dev/sushantlamsal"><img src="https://api.daily.dev/devcards/477bf03354a146ac9e9c0951cb9568ff.png?r=oyq" width="400" alt="Sushant's Dev Card"/></a>
 
 
 
