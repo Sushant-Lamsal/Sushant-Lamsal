@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Lamsal</h1>
 
 
-👨‍💻 All of my projects are available at [sushantlamsal.com.np](sushantlamsal.com.np)
+
 
 
 
